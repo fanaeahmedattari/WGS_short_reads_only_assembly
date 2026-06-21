@@ -70,10 +70,10 @@ All intermediate and final outputs are organized in dedicated sub‑directories 
 - Output logs are captured for each step, enabling traceability and debugging.
 - The repository follows FAIR principles: Findable, Accessible, Interoperable, Reusable.
 
-## 🙏 Acknowledgments
+## Acknowledgment
 Special thanks to Dr. Muhammad Aammar Tufail and the Codanics platform. The projects in this repository were developed and refined as part of the **"Bioinformatics ka Chilla"** course, which provided the foundational knowledge and technical training required to master WGS analysis.
 
 ---
-Author: Fana e Ahmed Attari
-GitHub: fanaeahmedattari
+## **Author:** Fana e Ahmed Attari<br>
+## **GitHub:** fanaeahmedattari
 ---
