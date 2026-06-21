@@ -74,8 +74,6 @@ All intermediate and final outputs are organized in dedicated sub‑directories 
 Special thanks to Dr. Muhammad Aammar Tufail and the Codanics platform. The projects in this repository were developed and refined as part of the **"Bioinformatics ka Chilla"** course, which provided the foundational knowledge and technical training required to master WGS analysis.
 
 ---
-<small>
-## **Author:** Fana e Ahmed Attari<br>
-## **GitHub:** fanaeahmedattari
-<small>
+- **Author:** Fana e Ahmed Attari<br>
+- **GitHub:** fanaeahmedattari
 ---
